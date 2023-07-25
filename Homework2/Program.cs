@@ -21,10 +21,32 @@ namespace Homework2
             string NumStr = num.ToString();
             if (NumStr.Length == 3)
             {
-                Console.WriteLine($"Выпало число: {num}");
-                Console.WriteLine($" Число по середине: {NumStr[1]}");
-                Console.ReadKey();
+                Console.WriteLine("Данный день является выходным");
             }
+            
+
+            Console.ReadKey();
+            
+
+            Console.ReadKey();
+            
+
+            Console.ReadKey();
+            
+
+            Console.ReadKey();
+            
+
+            Console.ReadKey();
+            
+
+            Console.ReadKey();
+            
+
+            Console.ReadKey();
+            
+
+            Console.ReadKey();
         }
     }
 }
